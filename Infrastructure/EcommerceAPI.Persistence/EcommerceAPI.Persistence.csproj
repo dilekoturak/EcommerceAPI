@@ -1,0 +1,51 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\EcommerceAPI.Application\EcommerceAPI.Application.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Concretes\" />
+    <None Remove="Contexts\" />
+    <None Remove="Microsoft.EntityFrameworkCore" />
+    <None Remove="Npgsql.EntityFrameworkCore.PostgreSQL" />
+    <None Remove="Microsoft.EntityFrameworkCore.Design" />
+    <None Remove="Microsoft.EntityFrameworkCore.Tools" />
+    <None Remove="Docker\" />
+    <None Remove="Microsoft.Extensions.Configuration.FileExtensions" />
+    <None Remove="Microsoft.Extensions.Configuration.Json" />
+    <None Remove="Repositories\" />
+    <None Remove="Concretes\Order\" />
+    <None Remove="Concretes\Customer\" />
+    <None Remove="Concretes\Product\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Concretes\" />
+    <Folder Include="Contexts\" />
+    <Folder Include="Docker\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="Concretes\Order\" />
+    <Folder Include="Concretes\Customer\" />
+    <Folder Include="Concretes\Product\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.9">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.9">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="6.0.0" />
+  </ItemGroup>
+</Project>
