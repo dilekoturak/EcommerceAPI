@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{0C62B44C-E3CE-44F7-980C-BF422946439A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Presentation.EcommerceAPI.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Infrastructure/EcommerceAPI.Persistence/Migrations/EcommerceAPIDbContextModelSnapshot.cs">
+    <Files>
+      <File FileName="Core/EcommerceAPI.Domain/Entities/Common/BaseEntity.cs" Line="11" Column="1" />
+      <File FileName="Presentation/EcommerceAPI.API/Controllers/ProductsController.cs" Line="69" Column="136" />
+      <File FileName="Infrastructure/EcommerceAPI.Persistence/Contexts/EcommerceAPIDbContext.cs" Line="33" Column="85" />
+      <File FileName="Infrastructure/EcommerceAPI.Persistence/Migrations/20221004203853_mig_1.cs" Line="1" Column="1" />
+      <File FileName="Infrastructure/EcommerceAPI.Persistence/Migrations/EcommerceAPIDbContextModelSnapshot.cs" Line="22" Column="1" />
+      <File FileName="Infrastructure/EcommerceAPI.Persistence/Migrations/20221004204822_mig_15.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EcommerceAPI" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="EcommerceAPI.Domain" expanded="True">
+                <Node name="Entities" expanded="True">
+                  <Node name="Common" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Infrastructure" expanded="True">
+              <Node name="EcommerceAPI.Persistence" expanded="True">
+                <Node name="Contexts" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="EcommerceAPI.API" expanded="True">
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EfMmnnuEmREK6y0y0/nCkLYnzmgEnhB/gqKdYJg1ECx5lmUOK1gTrXo+s14T8sFabhJxXHiuiG6Qea3x2l0CUQ==",
+  "dgSpecHash": "byK4uog1aOGtflDt4hcQHpuNSnWugWd33Nvj1MmXa/qLkSBymFJZZuscl9AOfnnNytth0jcOFJ66KI4BJh154g==",
   "success": true,
-  "projectFilePath": "/Users/dilekoturak/Desktop/MyProjects/ASPNETCore6Ecommerce/EcommerceAPI/Presentation/EcommerceAPI.API/EcommerceAPI.API.csproj",
+  "projectFilePath": "/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Presentation/EcommerceAPI.API/EcommerceAPI.API.csproj",
   "expectedPackageFiles": [
     "/Users/dilekoturak/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/dilekoturak/.nuget/packages/microsoft.entityframeworkcore/6.0.9/microsoft.entityframeworkcore.6.0.9.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EggrZ97wwdE33R4Pse0dIu2Sn9CDQ/9fwLtvio+AVu6QVYf8D79rAG7r4eKAZXtOskslIxjC0nFu/8NnBwMNJg==",
+  "dgSpecHash": "1dygMXedanLgy5JtNM4foPyeS6CuhIEiONXv6757veysb4TEfq2sHyzFhXcPEZFpulcpGQQOYZ2HYnfInm9Wvg==",
   "success": true,
-  "projectFilePath": "/Users/dilekoturak/Desktop/MyProjects/ASPNETCore6Ecommerce/EcommerceAPI/Core/EcommerceAPI.Domain/EcommerceAPI.Domain.csproj",
+  "projectFilePath": "/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/EcommerceAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

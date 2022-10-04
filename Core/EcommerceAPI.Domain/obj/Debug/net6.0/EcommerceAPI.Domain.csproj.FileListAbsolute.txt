@@ -22,3 +22,15 @@
 /Users/dilekoturak/Desktop/MyProjects/ASPNETCore6Ecommerce/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/refint/EcommerceAPI.Domain.dll
 /Users/dilekoturak/Desktop/MyProjects/ASPNETCore6Ecommerce/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/EcommerceAPI.Domain.pdb
 /Users/dilekoturak/Desktop/MyProjects/ASPNETCore6Ecommerce/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/ref/EcommerceAPI.Domain.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/bin/Debug/net6.0/EcommerceAPI.Domain.deps.json
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/bin/Debug/net6.0/EcommerceAPI.Domain.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/bin/Debug/net6.0/EcommerceAPI.Domain.pdb
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/EcommerceAPI.Domain.csproj.AssemblyReference.cache
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/EcommerceAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/EcommerceAPI.Domain.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/EcommerceAPI.Domain.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/EcommerceAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/EcommerceAPI.Domain.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/refint/EcommerceAPI.Domain.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/EcommerceAPI.Domain.pdb
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Core/EcommerceAPI.Domain/obj/Debug/net6.0/ref/EcommerceAPI.Domain.dll

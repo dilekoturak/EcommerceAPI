@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DpJ2xSqwKZwkT6gpQFkvtL6cNFzlZbNp1zHPuq5Z8FHAbjcr0Y5RfHhaKPzj86MHeXNi3LBP6wRYqd6+G45/Sw==",
+  "dgSpecHash": "OmHSDsOfjL+nzZYjyxWbfAOaZPj9uCLW3G3/3YDungTp2kIq2p6/PIU9QWPZerSAp01V6AGqXl8/+HB8oxzYjw==",
   "success": true,
-  "projectFilePath": "/Users/dilekoturak/Desktop/MyProjects/ASPNETCore6Ecommerce/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/EcommerceAPI.Infrastructure.csproj",
+  "projectFilePath": "/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/EcommerceAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/dilekoturak/.nuget/packages/microsoft.entityframeworkcore/6.0.9/microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
     "/Users/dilekoturak/.nuget/packages/microsoft.entityframeworkcore.abstractions/6.0.9/microsoft.entityframeworkcore.abstractions.6.0.9.nupkg.sha512",

@@ -1,0 +1,17 @@
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/bin/Debug/net6.0/EcommerceAPI.Infrastructure.deps.json
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/bin/Debug/net6.0/EcommerceAPI.Infrastructure.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/bin/Debug/net6.0/EcommerceAPI.Infrastructure.pdb
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/bin/Debug/net6.0/EcommerceAPI.Application.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/bin/Debug/net6.0/EcommerceAPI.Domain.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/bin/Debug/net6.0/EcommerceAPI.Application.pdb
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/bin/Debug/net6.0/EcommerceAPI.Domain.pdb
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/EcommerceAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/EcommerceAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/EcommerceAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/EcommerceAPI.Infrastructure.AssemblyInfo.cs
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/EcommerceAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/EcommerceAPI.Infrastructure.csproj.CopyComplete
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/EcommerceAPI.Infrastructure.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/refint/EcommerceAPI.Infrastructure.dll
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/EcommerceAPI.Infrastructure.pdb
+/Users/dilekoturak/Desktop/MyProjects/EcommerceAPI/Infrastructure/EcommerceAPI.Infrastructure/obj/Debug/net6.0/ref/EcommerceAPI.Infrastructure.dll
