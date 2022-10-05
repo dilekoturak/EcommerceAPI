@@ -36,7 +36,7 @@ namespace EcommerceAPI.API.Controllers
         }
 
         [HttpGet]
-        public async Task Get()
+        public async Task<IActionResult> Get()
         {
             //cmd shift /
             // Test 1
@@ -74,9 +74,13 @@ namespace EcommerceAPI.API.Controllers
             //await _orderWriteRepository.SaveAsync();
 
             //Test 5
+            //Order order = await _orderReadRepository.GetByIdAsync("692d9609-7f49-420f-b074-8cb7205d79f8");
+            //order.Address = "Istanbul";
+            //await _orderWriteRepository.SaveAsync();
+
+            // Test 6 - API test from EcommerceClient
             Order order = await _orderReadRepository.GetByIdAsync("692d9609-7f49-420f-b074-8cb7205d79f8");
-            order.Address = "Istanbul";
-            await _orderWriteRepository.SaveAsync();
+            return Ok(order);
         }
 
         [HttpGet("{id}")]
