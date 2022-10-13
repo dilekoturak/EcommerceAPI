@@ -40,13 +40,14 @@ namespace EcommerceAPI.API.Controllers
         {
             //cmd shift /
             // Test 1
-            //await _productWriteRepository.AddRangeAsync(new()
-            //{
-            //    new() { Id = Guid.NewGuid(), Name = "Product 1", Price = 100, CreatedDate = DateTime.UtcNow, Stock = 10 },
-            //    new() { Id = Guid.NewGuid(), Name = "Product 2", Price = 200, CreatedDate = DateTime.UtcNow, Stock = 20 },
-            //    new() { Id = Guid.NewGuid(), Name = "Product 3", Price = 300, CreatedDate = DateTime.UtcNow, Stock = 30 },
-            //});
-            //var count = await _productWriteRepository.SaveAsync();
+            await _productWriteRepository.AddRangeAsync(new()
+            {
+                new() { Id = Guid.NewGuid(), Name = "Product 1", Price = 100, CreatedDate = DateTime.UtcNow, Stock = 10 },
+                new() { Id = Guid.NewGuid(), Name = "Product 2", Price = 200, CreatedDate = DateTime.UtcNow, Stock = 20 },
+                new() { Id = Guid.NewGuid(), Name = "Product 3", Price = 300, CreatedDate = DateTime.UtcNow, Stock = 30 },
+            });
+            var count = await _productWriteRepository.SaveAsync();
+            return Ok(count);
 
             //------------------------------------------------------
             // Test 2
@@ -79,8 +80,8 @@ namespace EcommerceAPI.API.Controllers
             //await _orderWriteRepository.SaveAsync();
 
             // Test 6 - API test from EcommerceClient
-            Order order = await _orderReadRepository.GetByIdAsync("692d9609-7f49-420f-b074-8cb7205d79f8");
-            return Ok(order);
+            //Order order = await _orderReadRepository.GetByIdAsync("692d9609-7f49-420f-b074-8cb7205d79f8");
+            //return Ok(order);
         }
 
         [HttpGet("{id}")]
@@ -88,6 +89,13 @@ namespace EcommerceAPI.API.Controllers
         {
             Product product = await _productReadRepository.GetByIdAsync(id);
             return Ok(product);
+        }
+
+        [HttpGet("GetProducts")]
+        public IList<Product> GetProducts()
+        {
+            IList<Product> products = _productReadRepository.GetAll().ToList();
+            return products;
         }
 
     }
