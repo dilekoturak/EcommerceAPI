@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{0C62B44C-E3CE-44F7-980C-BF422946439A}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Presentation.EcommerceAPI.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/EcommerceAPI.API/Controllers/ProductsController.cs">
     <Files>
       <File FileName="Core/EcommerceAPI.Domain/Entities/Common/BaseEntity.cs" Line="11" Column="1" />
-      <File FileName="Presentation/EcommerceAPI.API/Controllers/ProductsController.cs" Line="62" Column="29" />
+      <File FileName="Presentation/EcommerceAPI.API/Controllers/ProductsController.cs" Line="81" Column="54" />
+      <File FileName="Presentation/EcommerceAPI.API/Program.cs" Line="14" Column="110" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -22,9 +24,7 @@
               </Node>
             </Node>
             <Node name="Presentation" expanded="True">
-              <Node name="EcommerceAPI.API" expanded="True">
-                <Node name="Controllers" expanded="True" />
-              </Node>
+              <Node name="EcommerceAPI.API" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -34,5 +34,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Presentation.EcommerceAPI.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

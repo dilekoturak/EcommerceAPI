@@ -16,6 +16,10 @@
     <None Remove="Repositories\Customer\" />
     <None Remove="Repositories\Order\" />
     <None Remove="Repositories\Product\" />
+    <None Remove="Repositories\Address\" />
+    <None Remove="Repositories\Address\BillingAddress\" />
+    <None Remove="Repositories\Address\ShippingAddress\" />
+    <None Remove="Repositories\Basket\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Abstractions\" />
@@ -23,6 +27,10 @@
     <Folder Include="Repositories\Customer\" />
     <Folder Include="Repositories\Order\" />
     <Folder Include="Repositories\Product\" />
+    <Folder Include="Repositories\Address\" />
+    <Folder Include="Repositories\Address\BillingAddress\" />
+    <Folder Include="Repositories\Address\ShippingAddress\" />
+    <Folder Include="Repositories\Basket\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.9" />

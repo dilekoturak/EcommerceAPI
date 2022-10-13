@@ -22,6 +22,12 @@ namespace EcommerceAPI.Persistence
             services.AddScoped<IOrderWriteRepository, OrderWriteRepository>();
             services.AddScoped<IProductReadRepository, ProductReadRepository>();
             services.AddScoped<IProductWriteRepository, ProductWriteRepository>();
+            services.AddScoped<IShippingAddressReadRepository, ShippingAddressReadRepository>();
+            services.AddScoped<IShippingAddressWriteRepository, ShippingAddressWriteRepository>();
+            services.AddScoped<IBillingAddressReadRepository, BillingAddressReadRepository>();
+            services.AddScoped<IBillingAddressWriteRepository, BillingAddressWriteRepository>();
+            services.AddScoped<IBasketReadRepository, BasketReadRepository>();
+            services.AddScoped<IBasketWriteRepository, BasketWriteRepository>();
         }
     }
 }

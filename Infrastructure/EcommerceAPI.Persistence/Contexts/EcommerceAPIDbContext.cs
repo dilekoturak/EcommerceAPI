@@ -17,6 +17,9 @@ namespace EcommerceAPI.Persistence.Contexts
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<Customer> Customers { get; set; }
+        public DbSet<ShippingAddress> ShippingAddresses { get; set; }
+        public DbSet<BillingAddress> BillingAddresses { get; set; }
+        public DbSet<Basket> Basket { get; set; }
 
         // Interceptor, insert ve update dataları yakalayıp üzerinde değişiklik yapmak
         public override async Task<int> SaveChangesAsync(CancellationToken cancellationToken = default)
@@ -30,7 +33,8 @@ namespace EcommerceAPI.Persistence.Contexts
                 _ = data.State switch
                 {
                     EntityState.Added => data.Entity.CreatedDate = DateTime.UtcNow,
-                    EntityState.Modified => data.Entity.UpdatedDate =DateTime.UtcNow
+                    EntityState.Modified => data.Entity.UpdatedDate = DateTime.UtcNow,
+                    EntityState.Unchanged => data.Entity.UpdatedDate = DateTime.UtcNow
                 };
             }
 
